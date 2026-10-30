@@ -1,10 +1,15 @@
 {
- "work": "藤原為頼朝臣集",
+ "work": "藤原為頼朝臣集（続群書類従本）",
  "work_id": "zoku16a-tameyori",
  "repo": "kumoi-no-fumigura/zoku-gunsho-tameyori",
  "yomi": "ふじわらのためよりあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "藤原為頼",
+  "desc": "紫式部の伯父にあたる藤原為頼の家集。知人との贈答や哀傷の歌が多く、日常の折々の交わりを伝える。"
+ },
  "editions": [
   {
    "pid": "936505",

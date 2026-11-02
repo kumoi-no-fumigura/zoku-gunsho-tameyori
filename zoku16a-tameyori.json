@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 3,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zoku16a-tameyori-0001",
@@ -1004,6 +1007,7 @@
   "poems": 82,
   "editions": 1,
   "updated": "2026-11-02",
-  "updated_at": "2026-11-02T23:47:31+09:00"
+  "updated_at": "2026-11-02T23:47:31+09:00",
+  "yaku": 3
  }
 }
